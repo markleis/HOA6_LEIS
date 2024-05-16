@@ -1,0 +1,10 @@
+[webservers]
+server_1
+Cent-OS
+
+[db_servers]
+Server_2
+
+[file_servers]
+Server_3
+
